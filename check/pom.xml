@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.vitesco</groupId>
-  <artifactId>test2</artifactId>
+  <artifactId>check</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>test2</name>
+  <name>check</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

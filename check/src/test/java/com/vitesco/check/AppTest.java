@@ -1,4 +1,4 @@
-package com.vitesco.test2;
+package com.vitesco.check;
 
 import static org.junit.Assert.assertTrue;
 

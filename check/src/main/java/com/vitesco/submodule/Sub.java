@@ -13,7 +13,7 @@ package com.vitesco.submodule;
 /**
  *
  */
-public class Check
+public class Sub
 {
 
 }
